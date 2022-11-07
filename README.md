@@ -1,2 +1,1 @@
-# Research-codes
-List of research codes developed by SofTMech researchers
+# List of research codes that have been developed and published by SofTMech researchers
